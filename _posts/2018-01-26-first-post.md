@@ -3,4 +3,5 @@ layout: post
 title: Trial post
 
 ---
-Post 1
+Gogogo
+{% include scipy2017_sklearn.html %}
