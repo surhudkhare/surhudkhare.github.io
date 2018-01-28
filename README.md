@@ -1,5 +1,5 @@
 ## Python conferences - PyData, SciPy, PyCon
-Following along the sessions conducted at various Python conferences can be a great source of gaining hands-on enperience with many of the python libraries. 
+Following along the sessions conducted at various Python conferences can be a great source of gaining hands-on experience with many of the python libraries and leveraging their capabilities in personal projects
 
 ### SciPy2017: Machine Learning - scikit-learn
 [Project Link](scipy2017_sklearn)
