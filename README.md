@@ -1,5 +1,3 @@
-# Surhud Khare
-
 ## Learning Resources
 Following along the sessions conducted at various Python conferences can be a great source of gaining hands-on enperience with many of the python libraries. 
 
