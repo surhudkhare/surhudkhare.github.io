@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: page
+layout: post
 
 ---
 
