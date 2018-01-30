@@ -5,4 +5,4 @@ layout: post
 
 ---
 
-{% include Surhud_Khare_Resume.pdf %}
+{% include Surhud_Khare_Resume_refined_formatted.html %}
