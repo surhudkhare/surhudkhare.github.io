@@ -1,7 +1,7 @@
 # Welcome to MyPy
 Thank you for visiting the page and looking at my experiments in python. If you want to check out my profile, please check my resume below.
 
-[Resume](https://github.com/surhudkhare/surhudkhare.github.io/blob/master/_includes/Surhud_Khare_Resume.pdf)
+[Resume](https://github.com/surhudkhare/surhudkhare.github.io/blob/master/_includes/Surhud_Khare_Resume_refined_formatted.html)
 
 Currently I am focusing on the following topics:
 1. Exploratory data analysis
