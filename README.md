@@ -4,7 +4,7 @@
 Thank you for visiting the page and looking at my experiments in python. If you want to check out my profile, please check my resume below.
 
 
-[Resume](Resume)
+[Resume]({{ https://github.com/surhudkhare/surhudkhare.github.io/blob/master/_includes/Surhud_Khare_Resume.pdf }}/download/file.pdf)
 
 
 Currently I am focusing on the following topics:
