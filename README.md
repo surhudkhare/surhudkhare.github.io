@@ -1,7 +1,5 @@
 # Welcome to MyPy
 Thank you for visiting the page and looking at my experiments in python. If you want to check out my profile, please check my resume below.
-
-
 Currently I am focusing on the following topics:
 1. Exploratory data analysis
  * Data cleaning
