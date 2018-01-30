@@ -4,4 +4,4 @@ layout: page
 
 ---
 
-{% include Resume.pdf %}
+{% include Surhud_Khare_Resume.pdf %}
